@@ -1,0 +1,33 @@
+
+    h1{
+        color: rgb(206, 55, 55);
+        font-size: 35px;
+
+        list-style-position:inside;
+        font-family: 'Besley', serif;
+
+    }
+
+
+    h2{
+        color:rgb(47, 71, 204);
+        font-size: 28px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    h3{
+        color:black;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+
+    body{
+        background-color: #F0D9FF;
+        
+    }
+
+    .paragraf{
+        font-family: 'Hina Mincho', serif;
+        font-size: 20px;
+    }
